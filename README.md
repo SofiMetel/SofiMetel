@@ -27,7 +27,7 @@ Programming Languages:
 
 As part of different university modules I worked on projects using Java, JavaScript (+HTML/CSS), C, Scilab programming languages. 
 
-Working knowledge of PowerBi, Zoom, Microsoft Teams, Google Meets, Notion.
+Working knowledge of PowerBi, Git and GitHub, Zoom, Microsoft Teams, Google Meets, Notion.
 ___
 
 ### 🏫 Education
